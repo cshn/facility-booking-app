@@ -1,0 +1,9 @@
+- Prerequisite: you need to install nodejs on your computer first
+- Under the folder "facility-booking-app", run "node main.js"
+    - Current code only go to an website and take screenshot
+    - You still need to change the code to do more
+    - Here is tutorial on pupeteer: https://github.com/puppeteer/puppeteer
+    - Anything human can do online, pupeteer can also do it.
+    - Something human cannot do, pupeteer can do.
+- To run the code, just type node main.js
+- If you want to schedule the code to run right after midnight, you will need another scheduler.
